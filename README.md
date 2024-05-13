@@ -1,6 +1,6 @@
 # Geometric-Diamonds
 
-Prints a hollow diamond formed of numbers 1 through n.
+Print a hollow diamond formed of numbers 1 through n.
 
 Update - March 18th, 2024:
 
